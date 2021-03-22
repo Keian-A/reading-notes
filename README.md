@@ -7,4 +7,4 @@
 ### There are multiple ways of typing out bold or italicized, for example `*italicized*` and `_italicized_`. There is also `**BOLD**` and `__BOLD__`.
 ### You can create a link to an external website using `[website name / here / this website / etc.](http://www.WEBSITE-NAME.com)`.
 ### Example: [This](http://www.google.com) link will send you to Google.
-### 
+~###Do not forget to put a space after the #'s at the beginning of a line~
