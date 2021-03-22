@@ -8,7 +8,7 @@
 ### You can create a link to an external website using `[website name / here / this website / etc.](http://www.WEBSITE-NAME.com)`.
 ### Example: [This](http://www.google.com) link will send you to Google.
 ### ~#Do not forget to put a space after the #'s at the beginning of a line~
-### To impliment a list of bullet points use `*` at the beginning of a line and to number them use `1.` at the beginning of every line.
+### To implement a list of bullet points use `*` at the beginning of a line and to number them use `1.` at the beginning of every line.
 ### You can comment out code in the middle of a line in a sense by using \` or \\ so you can type code as a comment without actually using the code as a means to change something.
 - [X] Learning the basic syntax of Markdown
 - [ ] Learning everything there is to know about Markdown. (yes this is probably not feasible)
