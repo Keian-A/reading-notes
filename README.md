@@ -10,5 +10,5 @@
 ### ~#Do not forget to put a space after the #'s at the beginning of a line~
 ### To impliment a list of bullet points use `*` at the beginning of a line and to number them use `1.` at the beginning of every line.
 ### You can comment out code in the middle of a line in a sense by using \` or \\ so you can type code as a comment without actually using the code as a means to change something.
--[X] Learning the basic syntax of 
--[ ] Learning everything there is to know about Markdown. (yes this is probably unfeasible)
+- [X] Learning the basic syntax of 
+- [ ] Learning everything there is to know about Markdown. (yes this is probably unfeasible)
