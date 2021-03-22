@@ -11,4 +11,4 @@
 ### To impliment a list of bullet points use `*` at the beginning of a line and to number them use `1.` at the beginning of every line.
 ### You can comment out code in the middle of a line in a sense by using \` or \\ so you can type code as a comment without actually using the code as a means to change something.
 - [X] Learning the basic syntax of Markdown
-- [ ] Learning everything there is to know about Markdown. (yes this is probably unfeasible)
+- [ ] Learning everything there is to know about Markdown. (yes this is probably not feasible)
