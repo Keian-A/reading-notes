@@ -2,6 +2,10 @@
 
 ## Day 1 Class 1 notes
 
+##### Growth mindset to me is the methodology that all mistakes and failures can be learned from to become a better person in the field in which the mistake was made.
+
+###### Three reminders to keep a healthy growth mindset could be to set an alarm to stay on a schedule of coding specific days or times of the week, get engaged in a community where people share or talk about their code ideas or projects, and continuing to work on assignments or past code to refine and make more efficent.
+
 ### The number of #'s before a line of text will determine the `<h1>` to `<h6>` depending on how many are used in respect to the count or number of #'s.
 
 There are multiple ways of typing out bold or italicized, for example `*italicized*` and `_italicized_`. There is also `**BOLD**` and `__BOLD__`.
