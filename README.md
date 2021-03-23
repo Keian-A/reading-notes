@@ -8,3 +8,5 @@
 - [Reading 2: Notes on Terminal commands](notes2.md)
 
 - [Reading 3: Notes on git and GitHub commands](notes3.md)
+
+- [Notes 4: Notes on website construction](notes4.md)
