@@ -2,7 +2,7 @@
 
 ## Day 2 Class 1 notes
 
-#### GitHub is a resource to save and backup saved of code to the cloud using git, with improvements of its own.
+#### GitHub is a resource to save and backup saves of code to the cloud using git, with improvements of its own.
 
 git and GitHub allow:
 - Snapshots
