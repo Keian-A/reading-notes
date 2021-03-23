@@ -6,7 +6,7 @@ Three reminders to keep a healthy growth mindset could be to set an alarm to sta
 
 ## Table of Contents
 
-####
+
 - [Reading 1](notes1.md)
 
 - [Reading 2](notes2.md)
