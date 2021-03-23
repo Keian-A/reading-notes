@@ -7,8 +7,8 @@
 ## Table of Contents
 
 
-- [Reading 1](notes1.md)
+- [Reading 1: Notes on Markdown](notes1.md)
 
-- [Reading 2](notes2.md)
+- [Reading 2: Notes on Terminal commands](notes2.md)
 
-- [Reading 3](notes3.md)
+- [Reading 3: Notes on git and GitHub commands](notes3.md)
