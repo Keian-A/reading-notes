@@ -16,7 +16,6 @@ git and GitHub allow:
 
 ## Terminal commands for git
 
-
 - git clone "github_repository_link" -> will clone the contents of a GitHub repository onto your remote system.
 - git add ". (or) file_name" -> will save your edited files and prepare them to get commited.
 - git commit -m "message here" -> will get your files that are added to the commit and prepares a message which will display on GitHub to show changes.
