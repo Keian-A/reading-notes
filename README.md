@@ -12,3 +12,5 @@
 - [Reading 4: Notes on website construction with HTML](notes4.md)
 
 - [Reading 5: Notes on CSS](notes5.md)
+
+- [Reading 6: Notes on JavaScript](notes6.md)
