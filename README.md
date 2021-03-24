@@ -9,4 +9,6 @@
 
 - [Reading 3: Notes on git and GitHub commands](notes3.md)
 
-- [Reading 4: Notes on website construction](notes4.md)
+- [Reading 4: Notes on website construction with HTML](notes4.md)
+
+- [Reading 5: Notes on CSS](notes5.md)
