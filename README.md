@@ -14,3 +14,5 @@
 - [Reading 5: Notes on CSS](notes5.md)
 
 - [Reading 6: Notes on JavaScript](notes6.md)
+
+- [Reading 7: Notes on parts of a computer](notes7.md)
