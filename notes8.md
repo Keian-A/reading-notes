@@ -43,7 +43,7 @@ Operators allow programmers to create a single value from one or more values.
 Arithmetic operators:
 * ++ -> Adds one number to the current value.
 * -- -> Subtracts one number from the current value.
-* % -> The *modulus* divides to values and returns the remainder.
+* % -> The *modulus* divides two values and returns the remainder.
 * There is also `+`, `-`, `/`, and `*`
 
 **Concatenation** is when you add two or more strings together to create a new string.
