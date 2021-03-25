@@ -16,3 +16,5 @@
 - [Reading 6: Notes on JavaScript](notes6.md)
 
 - [Reading 7: Notes on parts of a computer](notes7.md)
+
+- [Reading 8: Notes on functions and Operators](notes8.md)
