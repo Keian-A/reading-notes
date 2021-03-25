@@ -18,3 +18,5 @@
 - [Reading 7: Notes on parts of a computer](notes7.md)
 
 - [Reading 8: Notes on functions and Operators](notes8.md)
+
+- [Reading 9: Notes on logical operators and loops](notes9.md)
