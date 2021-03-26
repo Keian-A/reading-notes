@@ -3,9 +3,9 @@
 ## Day 4 Class 2 notes
 
 #### Comparison operators include:
-* `==` -> Equal to
+* `==` -> Equal to (will not check typeOf)
 * `!=` -> Not equal to
-* `===` -> Strict equal to
+* `===` -> Strict equal to (WILL check typeOf)
 * `!==` -> Strict not equal to
 * `>` -> Greater than
 * `>=` -> Greater than or equal to
