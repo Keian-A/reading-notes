@@ -22,4 +22,4 @@ git and GitHub allow:
 - git push origin main -> will send the commited files to the main branch in your GitHub repository.
 - git status -> you should constantly get in the habbit of using this after every git command to check the status of where you are at with [A-C-P](ACP.md).
 
-[<-- Back](README.md)
+[<-- Back](ToC.md)

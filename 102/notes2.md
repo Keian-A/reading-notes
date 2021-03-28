@@ -22,5 +22,4 @@ mkdir "path/to/new/directory" -> creates a directory.
 
 clear -> clears the terminal of all previous text.
 
-
-[<-- Back](README.md)
+[<-- Back](ToC.md)
