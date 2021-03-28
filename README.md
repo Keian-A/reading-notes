@@ -1,6 +1,6 @@
-# These are my reading notes for CodeFellows.
+# Keian Anthony's reading notes for CodeFellows.
 
-## Table of Contents
+### Table of Contents
 
 - [Reading Notes from 102](102/ToC.md)
 
