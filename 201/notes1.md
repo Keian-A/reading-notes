@@ -1,4 +1,4 @@
-# Pre-day 1 class notes
+# Read-01 notes
 
 #### Ways JS can make a website more interactive:
 1. The ability to access content.
