@@ -6,4 +6,6 @@
 
 - [Reading 3: Read-03 notes on HTML 3,13 & JS 2,4](notes3.md)
 
+- [Reading 4: Read-04 notes on HTML 4,15 & JS 3 & Article](notes4.md)
+
 [<-- Back to class table of contents](../README.md)
