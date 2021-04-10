@@ -8,4 +8,6 @@
 
 - [Reading 4: Read-04 notes on HTML 4,15 & JS 3 & Article](notes4.md)
 
+- [Reading 5: Read-05 notes on ](notes5.md)
+
 [<-- Back to class table of contents](../README.md)
