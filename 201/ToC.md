@@ -11,5 +11,6 @@
 - [Reading 9: Read-09 notes on HTML 7,14 & JS 6](notes9.md)
 - [Reading 10: Read-10 notes on JS 10](notes10.md)
 - [Reading 11: Read-11 notes on HTML 16,19 & Article](notes11.md)
+- [Reading 12: Read-12 notes on articles](notes12.md)
 
 [<-- Back to class table of contents](../README.md)
