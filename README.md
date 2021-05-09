@@ -1,7 +1,7 @@
 # Keian Anthony's reading notes for CodeFellows.
 
-### Table of Contents
+## Table of Contents
 
-- [Reading Notes from 102](102/ToC.md)
-
-- [Reading Notes from 201](201/ToC.md)
+- [102 - Intro to Software Development](./102/ToC.md)
+- [Code 201 - Foundations of Software Development](./201/ToC.md)
+- [Code 301 - Intermediate Software Development](./301/ToC.md)
