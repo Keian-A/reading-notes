@@ -80,4 +80,6 @@ const ChildComponent = (props) => {
 {props}
 ```
 
+(All of these code examples taken directly from [here](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0))
+
 [<-- Back](ToC.md)
