@@ -44,4 +44,10 @@ person.driver = person.age >=16 ? 'Yes' : 'No';
 
 Here the first value after the ternary operator is what the `person.driver` value is set to if the statement returns true, the second value for false.
 
+Rewritten code for example:
+
+``` JavaScript
+console.log( x === y ? true : false );
+```
+
 [<-- Back](ToC.md)
