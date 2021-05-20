@@ -8,5 +8,6 @@
 - [Reading 6: Read-06 notes on Node.JS & Pair Programming](notes6.md)
 - [Reading 7: Read-07 notes on REST](notes7.md)
 - [Reading 8: Read-08 notes on Reading APIs](notes8.md)
+- [Reading 9: Read-09 notes on functional programming concepts](notes9.md)
 
 [<-- Back to class table of contents](../README.md)
