@@ -9,5 +9,6 @@
 - [Reading 7: Read-07 notes on REST](notes7.md)
 - [Reading 8: Read-08 notes on Reading APIs](notes8.md)
 - [Reading 9: Read-09 notes on functional programming concepts](notes9.md)
+- [Reading 10: Read-10 notes on JS call stack and error messages](notes10.md)
 
 [<-- Back to class table of contents](../README.md)
