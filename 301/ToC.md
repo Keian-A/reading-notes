@@ -10,5 +10,6 @@
 - [Reading 8: Read-08 notes on Reading APIs](notes8.md)
 - [Reading 9: Read-09 notes on functional programming concepts](notes9.md)
 - [Reading 10: Read-10 notes on JS call stack and error messages](notes10.md)
+- [Reading 11: Read-11 notes on OAuth & authorization and authenication flows](notes11.md)
 
 [<-- Back to class table of contents](../README.md)
