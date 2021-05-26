@@ -50,3 +50,5 @@ NoSQL:
   - If you have a lot of data and update that data a lot, you might want to go with SQL. But if you have a lot of different data, you might want to go with NoSQL.
 1. What is the disadvantage of a NoSQL database?
   - You have to update each collection every time a piece of data changes
+      
+[<-- Back](ToC.md)

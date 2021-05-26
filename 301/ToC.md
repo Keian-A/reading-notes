@@ -12,5 +12,6 @@
 - [Reading 10: Read-10 notes on JS call stack and error messages](notes10.md)
 - [Reading 11: Read-11 notes on OAuth & authorization and authenication flows](notes11.md)
 - [Reading 12: Read-12 notes on nosql vs sql](notes12.md)
+- [Reading 13: Read-13 notes on REST and CRUD on a server](notes13.md)
 
 [<-- Back to class table of contents](../README.md)

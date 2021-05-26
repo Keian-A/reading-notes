@@ -39,3 +39,5 @@
   - This is for devices which may not have an easy to use text UI, so they send the Client ID to a different device of the users to provide authentication and authorization
 1. What is Resource Owner Password Flow?
   - This is not recommended unless very strict and specific conditions are met. This is when the user sends strict username and password data to the back end, this could potentially be stored
+      
+[<-- Back](ToC.md)
