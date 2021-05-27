@@ -13,5 +13,6 @@
 - [Reading 11: Read-11 notes on OAuth & authorization and authenication flows](notes11.md)
 - [Reading 12: Read-12 notes on nosql vs sql](notes12.md)
 - [Reading 13: Read-13 notes on REST and CRUD on a server](notes13.md)
+- [Reading 14: Read-14 notes on diversity & key tech companies](notes14.md)
 
 [<-- Back to class table of contents](../README.md)
