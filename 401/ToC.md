@@ -6,5 +6,6 @@
 - [Reading 4: Reading notes on express-type routing](notes4.md)
 - [Reading 5: Reading notes on Test Driven Development](notes5.md)
 - [Reading 6: Reading notes on Authentication](notes6.md)
+- [Reading 7: Reading notes on Bearer Authorization](notes7.md)
 
 [<-- Back to class table of contents](../README.md)
