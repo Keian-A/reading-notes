@@ -5,5 +5,6 @@
 - [Reading 3: Reading notes on Mock APIs for testing, and more CRUD](notes3.md)
 - [Reading 4: Reading notes on express-type routing](notes4.md)
 - [Reading 5: Reading notes on Test Driven Development](notes5.md)
+- [Reading 6: Reading notes on Authentication](notes6.md)
 
 [<-- Back to class table of contents](../README.md)
