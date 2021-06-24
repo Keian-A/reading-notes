@@ -32,3 +32,5 @@
   - This is an alphanumeric password that allows the user to enter information in a security-protected space.
 - Acess Token
   - This is the token-based authentication that allows a user to interact with an API.
+  
+[<-- Back](ToC.md)
