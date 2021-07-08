@@ -10,6 +10,7 @@
 - [Reading 11: Reading notes on role access control](notes11.md)
 - [Reading 12: Reading notes on socket.io](notes12.md)
 - [Reading 13: Reading notes on message queues](notes13.md)
-- [Reading 14: Reading notes on WRRC review](notes16.md)
+- [Reading 16: Reading notes on WRRC review](notes16.md)
+- [Reading 19: Reading notes on AWS Databases](notes19.md)
 
 [<-- Back to class table of contents](../README.md)
