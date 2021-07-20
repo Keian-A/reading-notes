@@ -13,5 +13,6 @@
 - [Reading 16: Reading notes on WRRC review](notes16.md)
 - [Reading 19: Reading notes on AWS Databases](notes19.md)
 - [Reading 26: Reading notes for class 26](notes26.md)
+- [Reading 27: Reading notes for class 27](notes27.md)
 
 [<-- Back to class table of contents](../README.md)
