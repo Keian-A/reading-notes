@@ -15,5 +15,6 @@
 - [Reading 26: Reading notes for class 26](notes26.md)
 - [Reading 27: Reading notes for class 27](notes27.md)
 - [Reading 28: Reading notes for class 28](notes28.md)
+- [Reading on Ethics in tech](notes29.md)
 
 [<-- Back to class table of contents](../README.md)
